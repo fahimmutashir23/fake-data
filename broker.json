@@ -1,0 +1,113 @@
+[
+    {
+      "brokerId": "1001",
+      "name": "Alice Smith",
+      "image": "https://i.ibb.co/Z20Jd0w/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+      "contact": {
+        "email": "alice.smith@example.com",
+        "phone": "+1112223333"
+      },
+      "agency": "XYZ Realty",
+      "location": {
+        "city": "Metropolis",
+        "state": "State1",
+        "country": "CountryA"
+      },
+      "specialties": ["Residential", "Luxury"],
+      "experience": "8 years",
+      "languages": ["English", "French"],
+      "socialMedia": {
+        "linkedin": "https://www.linkedin.com/in/alicesmith",
+        "twitter": "https://twitter.com/alicesmith"
+      }
+    },
+    {
+      "brokerId": "1002",
+      "name": "Bob Johnson",
+      "image": "https://i.ibb.co/zRsZ28x/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
+      "contact": {
+        "email": "bob.johnson@example.com",
+        "phone": "+4445556666"
+      },
+      "agency": "123 Real Estate",
+      "location": {
+        "city": "Cityville",
+        "state": "State2",
+        "country": "CountryB"
+      },
+      "specialties": ["Commercial", "Industrial"],
+      "experience": "6 years",
+      "languages": ["English", "Spanish"],
+      "socialMedia": {
+        "linkedin": "https://www.linkedin.com/in/bobjohnson",
+        "twitter": "https://twitter.com/bobjohnson"
+      }
+    },
+    {
+      "brokerId": "1003",
+      "name": "Eva Rodriguez",
+      "image": "https://i.ibb.co/56011TZ/pexels-andrea-piacquadio-3777564.jpg",
+      "contact": {
+        "email": "eva.rodriguez@example.com",
+        "phone": "+7778889999"
+      },
+      "agency": "Sunrise Realty",
+      "location": {
+        "city": "Sunset City",
+        "state": "State3",
+        "country": "CountryC"
+      },
+      "specialties": ["Residential", "Vacation Homes"],
+      "experience": "10 years",
+      "languages": ["English", "Italian"],
+      "socialMedia": {
+        "linkedin": "https://www.linkedin.com/in/evarodriguez",
+        "twitter": "https://twitter.com/evarodriguez"
+      }
+    },
+    {
+      "brokerId": "1004",
+      "name": "David Lee",
+      "image": "https://i.ibb.co/GvYk253/david-mumma-a-Ch-QUTPMhk-I-unsplash.jpg",
+      "contact": {
+        "email": "david.lee@example.com",
+        "phone": "+9990001111"
+      },
+      "agency": "Skyline Properties",
+      "location": {
+        "city": "Highland",
+        "state": "State4",
+        "country": "CountryD"
+      },
+      "specialties": ["Commercial", "Retail"],
+      "experience": "7 years",
+      "languages": ["English", "Mandarin"],
+      "socialMedia": {
+        "linkedin": "https://www.linkedin.com/in/davidlee",
+        "twitter": "https://twitter.com/davidlee"
+      }
+    },
+    {
+      "brokerId": "1005",
+      "name": "Sophia Chen",
+      "image": "https://i.ibb.co/tXqp6g5/603026-2650.jpg",
+      "contact": {
+        "email": "sophia.chen@example.com",
+        "phone": "+1239876543"
+      },
+      "agency": "Green Realty",
+      "location": {
+        "city": "Greenville",
+        "state": "State5",
+        "country": "CountryE"
+      },
+      "specialties": ["Residential", "Green Homes"],
+      "experience": "5 years",
+      "languages": ["English", "Cantonese"],
+      "socialMedia": {
+        "linkedin": "https://www.linkedin.com/in/sophiachen",
+        "twitter": "https://twitter.com/sophiachen"
+      }
+    }
+  ]
+  
